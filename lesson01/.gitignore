@@ -1,0 +1,4 @@
+build/
+kernel.map
+kernel.list
+kernel.img
